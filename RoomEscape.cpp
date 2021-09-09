@@ -1,3 +1,8 @@
+/*
+개발자 : 정경수, 정현식 
+개발일 : 2021.09.08
+문의 : ggsky3@naver.com
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
